@@ -1,2 +1,3 @@
-# RealEstatePredictions
-My first data science project in which I take data from open-source real estate companies and use it to predict housing and market prices in the near future.
+# NYCHomePricePredictions
+
+Using Kaggle, I found a publicly online dataset of homes for sale in NYC, complete with size by square feet and its price in dollars. I used linear regression models (my first time!) to model the connection between current pricing and predicted pricing. I do take outliers into account here. 
